@@ -1,0 +1,2321 @@
+# Copyright (C) 2017 top-news
+# This file is distributed under the same license as the top-news package.
+msgid ""
+msgstr ""
+"Project-Id-Version: top-news\n"
+"Report-Msgid-Bugs-To: http://codexcoder.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: CodexCoder <codxcoders@gmail.com>\n"
+"Language-Team: CodexCoder <codxcoders@gmail.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+
+#: 404.php:18, 404.php:24
+msgid "4"
+msgstr ""
+
+#: 404.php:21
+msgid "OOPS"
+msgstr ""
+
+#: 404.php:26
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:27
+msgid "The Page you are looking for can&#8217;t be found. Go home by "
+msgstr ""
+
+#: 404.php:27
+msgid "clicking here!"
+msgstr ""
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "There are 1 comments"
+msgid_plural "There are %1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:42, comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:45, comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:46, comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:24
+msgid "TopNews Panel"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:40
+msgid "General Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:45
+msgid "Layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:50
+msgid "Boxed Layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:56
+msgid "Background Field"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:68
+msgid "Section Header Style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:81
+msgid "Custom Sidebars"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:82, cs-framework-override/config/framework.config.php:83
+msgid "Add Sidebar"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:88
+msgid "Sidebar Name"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:96
+msgid "Page Sidebar"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:108
+msgid "Page Sidebar 1"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:110, cs-framework-override/config/framework.config.php:117, cs-framework-override/config/framework.config.php:997, cs-framework-override/config/framework.config.php:1004
+msgid "Select a sidebar"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:115
+msgid "Page Sidebar 2"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:128
+msgid "Add Custom CSS"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:134
+msgid "Copyright text"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:135
+msgid "Write your copyright text for footer. It is a html tag supported area."
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:145
+msgid "Typography"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:150
+msgid "Body"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:155
+msgid "Body font family:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:165
+msgid "Body font size:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:172
+msgid "Theme Primary Color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:178
+msgid "Theme Secondary Color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:184
+msgid "Theme Sidebar Bakground Color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:190
+msgid "Theme Top Footer Bakground Color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:196
+msgid "Theme Copyright Footer Bakground Color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:201
+msgid "Title"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:206
+msgid "Title font family:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:216
+msgid "Title font-weight:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:218, cs-framework-override/config/framework.config.php:275
+msgid "500"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:219, cs-framework-override/config/framework.config.php:272
+msgid "100"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:220, cs-framework-override/config/framework.config.php:273
+msgid "300"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:221, cs-framework-override/config/framework.config.php:274
+msgid "400"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:222, cs-framework-override/config/framework.config.php:276
+msgid "600"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:223, cs-framework-override/config/framework.config.php:271
+msgid "700"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:224, cs-framework-override/config/framework.config.php:277
+msgid "800"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:225, cs-framework-override/config/framework.config.php:278
+msgid "900"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:232
+msgid "Title font-style:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:234, cs-framework-override/config/framework.config.php:287
+msgid "Normal"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:235, cs-framework-override/config/framework.config.php:288
+msgid "Italic"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:236, cs-framework-override/config/framework.config.php:289
+msgid "Oblique"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:243
+msgid "Title text-transform:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:246, cs-framework-override/config/framework.config.php:300
+msgid "Capitalize"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:247, cs-framework-override/config/framework.config.php:298
+msgid "Uppercase"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:248, cs-framework-override/config/framework.config.php:301
+msgid "Lowercase"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:254
+msgid "Menu"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:259
+msgid "Menu font family:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:269
+msgid "Menu font-weight:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:285
+msgid "Menu font-style:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:296
+msgid "Menu text-transform:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:299
+msgid "None"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:312
+msgid "Header"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:323, cs-framework-override/config/framework.config.php:328, cs-framework-override/config/metabox.config.php:49
+msgid "Header Style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:331, cs-framework-override/config/metabox.config.php:52
+msgid "Header 1 (Default)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:332, cs-framework-override/config/metabox.config.php:53
+msgid "Header 2 (Fashion)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:333, cs-framework-override/config/metabox.config.php:54
+msgid "Header 3 (Sports)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:334, cs-framework-override/config/metabox.config.php:55
+msgid "Header 4 (Black Menu)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:335, cs-framework-override/config/metabox.config.php:56
+msgid "Header 5 (Black Menu 2)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:336, cs-framework-override/config/metabox.config.php:57
+msgid "Header 6 (Theme Color Menu)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:337, cs-framework-override/config/metabox.config.php:58
+msgid "Header 7 (Viral & Buzz)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:338, cs-framework-override/config/metabox.config.php:59
+msgid "Header 8 (Dark Header with any color menu)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:339, cs-framework-override/config/metabox.config.php:60
+msgid "Header 9 (Light Header with any color menu)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:349
+msgid "Header 8 Background Color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:356
+msgid "Header 9 Background Color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:363
+msgid "Menu Background Color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:370
+msgid "Menu Style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:373, cs-framework-override/config/framework.config.php:1682, cs-framework-override/config/metabox.config.php:308
+msgid "Default"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:374
+msgid "Black Menu"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:375
+msgid "Black Menu 2"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:376
+msgid "Theme Color Menu"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:384
+msgid "Quick Menu"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:385, cs-framework-override/config/framework.config.php:414, framework/widgets/social-profiles/class-widget-social-profiles.php:57
+msgid "Add New"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:386, cs-framework-override/config/framework.config.php:415
+msgid "Add New Menu"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:393, cs-framework-override/config/framework.config.php:420
+msgid "Write Name"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:398, cs-framework-override/config/framework.config.php:425
+msgid "Menu URL"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:405, cs-framework-override/config/framework.config.php:431
+msgid "Upload Icon"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:413
+msgid "Reaction Menu"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:439
+msgid "General Header (1,4,5,6) Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:451
+msgid "Breadcrumbs and Page Header style:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:453, cs-framework-override/config/framework.config.php:1683, cs-framework-override/config/metabox.config.php:309
+msgid "Style 1"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:454, cs-framework-override/config/framework.config.php:1684, cs-framework-override/config/metabox.config.php:310
+msgid "Style 2"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:462
+msgid "Header ads image (for header 1,4,5,6)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:468
+msgid "Header ads image url (for header 1,4,5,6)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:474
+msgid "Header add code (for header style 1,4,5,6)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:475
+msgid "The following code will add to the right side of logo. Useful if you need html/js ad code on header 1. If there have any value in this field image from above field will not show."
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:480
+msgid "Header Slider (for header 2 & 3) Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:485, cs-framework-override/config/metabox.config.php:68
+msgid "Limit Slider Posts:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:492, cs-framework-override/config/metabox.config.php:76
+msgid "Display Slider Post from?"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:494, cs-framework-override/config/framework.config.php:600, cs-framework-override/config/framework.config.php:828, cs-framework-override/config/framework.config.php:913, cs-framework-override/config/framework.config.php:1438, cs-framework-override/config/metabox.config.php:78, cs-framework-override/config/metabox.config.php:165, framework/widgets/recent-posts/class-widget-recent-posts.php:217
+msgid "Category"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:495, cs-framework-override/config/framework.config.php:601, cs-framework-override/config/framework.config.php:829, cs-framework-override/config/framework.config.php:914, cs-framework-override/config/framework.config.php:1439, cs-framework-override/config/metabox.config.php:79, cs-framework-override/config/metabox.config.php:166, framework/widgets/recent-posts/class-widget-recent-posts.php:218
+msgid "Tag"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:496, cs-framework-override/config/framework.config.php:602, cs-framework-override/config/framework.config.php:830, cs-framework-override/config/framework.config.php:915, cs-framework-override/config/framework.config.php:1440, cs-framework-override/config/metabox.config.php:80, cs-framework-override/config/metabox.config.php:167, framework/shortcode/post_col2_tab.php:30, framework/shortcode/post_col2_tab.php:53
+msgid "All"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:503, cs-framework-override/config/framework.config.php:609, cs-framework-override/config/framework.config.php:837, cs-framework-override/config/framework.config.php:923, cs-framework-override/config/framework.config.php:1448, cs-framework-override/config/metabox.config.php:88, cs-framework-override/config/metabox.config.php:175, framework/widgets/recent-posts/class-widget-recent-posts.php:225
+msgid "Category:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:513, cs-framework-override/config/framework.config.php:933, cs-framework-override/config/framework.config.php:1458, cs-framework-override/config/metabox.config.php:98, cs-framework-override/config/metabox.config.php:185
+msgid "Select category"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:520, cs-framework-override/config/framework.config.php:626, cs-framework-override/config/framework.config.php:850, cs-framework-override/config/framework.config.php:940, cs-framework-override/config/framework.config.php:1082, cs-framework-override/config/framework.config.php:1388, cs-framework-override/config/framework.config.php:1465, cs-framework-override/config/metabox.config.php:105, cs-framework-override/config/metabox.config.php:192, framework/widgets/recent-posts/class-widget-recent-posts.php:236
+msgid "Tag:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:530, cs-framework-override/config/framework.config.php:950, cs-framework-override/config/framework.config.php:1475, cs-framework-override/config/metabox.config.php:115, cs-framework-override/config/metabox.config.php:202
+msgid "Select tag"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:536, cs-framework-override/config/framework.config.php:969, cs-framework-override/config/framework.config.php:1108
+msgid "Page Header (for header 2 & 3)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:542, cs-framework-override/config/framework.config.php:975, cs-framework-override/config/framework.config.php:1114, cs-framework-override/config/framework.config.php:1267
+msgid "Header Background"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:552
+msgid "Logo Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:557
+msgid "Site Logo"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:563
+msgid "Mobile Logo"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:579
+msgid "Top Featured Post"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:584
+msgid "Featured post on top"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:586
+msgid "Featured post on top is not applicable for Header 3(Sports)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:591
+msgid "Posts Limit:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:598, cs-framework-override/config/framework.config.php:826, cs-framework-override/config/framework.config.php:911, cs-framework-override/config/framework.config.php:1436, cs-framework-override/config/metabox.config.php:163, framework/widgets/recent-posts/class-widget-recent-posts.php:215
+msgid "Display Post from?"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:619, cs-framework-override/config/framework.config.php:843, framework/widgets/recent-posts/class-widget-recent-posts.php:231
+msgid "Select a category"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:636, cs-framework-override/config/framework.config.php:856, framework/widgets/recent-posts/class-widget-recent-posts.php:242
+msgid "Select a tag"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:641, cs-framework-override/config/framework.config.php:646
+msgid "Top Bar"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:652
+msgid "Top Bar Style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:655
+msgid "Style 1 (Date and Location)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:656
+msgid "Style 2 (Recent, Popular, Hot and Trending post nav)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:657
+msgid "Style 3 (Top Bar Menu)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:664
+msgid "Top Bar 3 Background Color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:671
+msgid "Top Bar 3 Font Color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:678
+msgid "Temperature with Location"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:685, framework/shortcode/latest_videos_vc.php:69, framework/shortcode/photo_gallery_vc.php:73, framework/shortcode/post_carousel_vc.php:68, framework/shortcode/post_col1_vc.php:72, framework/shortcode/post_col2_tab_vc.php:55, framework/shortcode/post_col2_vc.php:73, framework/shortcode/post_default_vc.php:82, framework/shortcode/post_left_thumb_vc.php:71, framework/shortcode/post_single_col_vc.php:69, framework/shortcode/posts_slider_shortcode_vc.php:70
+msgid "Date"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:691
+msgid "Quick Nav Settings for Top Bar Style 2"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:697
+msgid "Latest Post Link"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:703
+msgid "Popular Post Link"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:709
+msgid "Hot Post Link"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:715
+msgid "Trending Post Link"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:720
+msgid "Login Registration"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:725
+msgid "Login Text"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:730
+msgid "Login Link"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:736
+msgid "Register Text"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:741
+msgid "Register Link"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:801
+msgid "News Ticker"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:806
+msgid "Display News Ticker"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:812
+msgid "News Ticker For Inner Page"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:819, framework/widgets/hot-posts/class-widget-hot-posts.php:116, framework/widgets/most-recent-posts/class-widget-most-recent-posts.php:105, framework/widgets/popular-posts/class-widget-popular-posts.php:116, framework/widgets/recent-posts/class-widget-recent-posts.php:197, framework/widgets/timeline/class-widget-timeline.php:74, framework/widgets/trending-posts/class-widget-trending-posts.php:116
+msgid "Limit Posts:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:870
+msgid "Front Page Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:877, cs-framework-override/config/metabox.config.php:128
+msgid "Featured Post Grid Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:882, cs-framework-override/config/framework.config.php:1408
+msgid "Featured Post"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:888, cs-framework-override/config/framework.config.php:1414
+msgid "Select Featured Post Layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:890, cs-framework-override/config/framework.config.php:1416
+msgid "2/4 column"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:891, cs-framework-override/config/framework.config.php:1417
+msgid "2/4 column (v2)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:892, cs-framework-override/config/framework.config.php:1418
+msgid "2/3 column"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:893, cs-framework-override/config/framework.config.php:1052, cs-framework-override/config/framework.config.php:1192, cs-framework-override/config/framework.config.php:1344, cs-framework-override/config/framework.config.php:1419
+msgid "3 columon"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:894, cs-framework-override/config/framework.config.php:1420
+msgid "Slider With Thumbnail Image"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:895, cs-framework-override/config/framework.config.php:1421
+msgid "Slider Without Thumbnail Image"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:903, cs-framework-override/config/framework.config.php:1428, cs-framework-override/config/metabox.config.php:155
+msgid "Limit Featured Posts:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:964
+msgid "Default Category Layout Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:982
+msgid "Default Category Template"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:995
+msgid "Default Category Template Sidebar 1"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1002
+msgid "Default Category Template Sidebar 2"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1009, cs-framework-override/config/framework.config.php:1148, cs-framework-override/config/framework.config.php:1301, cs-framework-override/config/framework.config.php:1535, cs-framework-override/config/framework.config.php:1680, cs-framework-override/config/metabox.config.php:305
+msgid "Post Style:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1011, cs-framework-override/config/framework.config.php:1150, cs-framework-override/config/framework.config.php:1303, cs-framework-override/config/framework.config.php:1537
+msgid "Style 1 (Thumb on top)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1012, cs-framework-override/config/framework.config.php:1151, cs-framework-override/config/framework.config.php:1304, cs-framework-override/config/framework.config.php:1538
+msgid "Style 2 (Thumb on left)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1013, cs-framework-override/config/framework.config.php:1152, cs-framework-override/config/framework.config.php:1305, cs-framework-override/config/framework.config.php:1539
+msgid "Style 3 (Stylish)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1019, cs-framework-override/config/framework.config.php:1159, cs-framework-override/config/framework.config.php:1311, cs-framework-override/config/framework.config.php:1545
+msgid "Excerpt"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1021, cs-framework-override/config/framework.config.php:1039, cs-framework-override/config/framework.config.php:1161, cs-framework-override/config/framework.config.php:1179, cs-framework-override/config/framework.config.php:1313, cs-framework-override/config/framework.config.php:1331, cs-framework-override/config/framework.config.php:1547, cs-framework-override/config/framework.config.php:1564, cs-framework-override/config/framework.config.php:1695, cs-framework-override/config/framework.config.php:1705, cs-framework-override/config/framework.config.php:1715, cs-framework-override/config/framework.config.php:1725, cs-framework-override/config/framework.config.php:1735, cs-framework-override/config/framework.config.php:1745, cs-framework-override/config/framework.config.php:1756, framework/shortcode/post_left_thumb_ajax_vc.php:56, framework/shortcode/recent_post_ajax_vc.php:68
+msgid "Yes"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1022, cs-framework-override/config/framework.config.php:1040, cs-framework-override/config/framework.config.php:1162, cs-framework-override/config/framework.config.php:1180, cs-framework-override/config/framework.config.php:1314, cs-framework-override/config/framework.config.php:1332, cs-framework-override/config/framework.config.php:1548, cs-framework-override/config/framework.config.php:1565, cs-framework-override/config/framework.config.php:1696, cs-framework-override/config/framework.config.php:1706, cs-framework-override/config/framework.config.php:1716, cs-framework-override/config/framework.config.php:1726, cs-framework-override/config/framework.config.php:1736, cs-framework-override/config/framework.config.php:1746, cs-framework-override/config/framework.config.php:1757, framework/shortcode/post_left_thumb_ajax_vc.php:57, framework/shortcode/recent_post_ajax_vc.php:69
+msgid "No"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1030, cs-framework-override/config/framework.config.php:1170, cs-framework-override/config/framework.config.php:1322, cs-framework-override/config/framework.config.php:1556
+msgid "Excerpt Word Limit"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1037, cs-framework-override/config/framework.config.php:1177, cs-framework-override/config/framework.config.php:1329, cs-framework-override/config/framework.config.php:1562
+msgid "Readmore"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1048, cs-framework-override/config/framework.config.php:1188
+msgid "Post Column"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1050, cs-framework-override/config/framework.config.php:1190, cs-framework-override/config/framework.config.php:1342
+msgid "1 column"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1051, cs-framework-override/config/framework.config.php:1191, cs-framework-override/config/framework.config.php:1343
+msgid "2 column"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1059
+msgid "Category Slider"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1065
+msgid "Deafult Slider Style:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1067, cs-framework-override/config/framework.config.php:1208, cs-framework-override/config/framework.config.php:1373
+msgid "Content area slider"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1068, cs-framework-override/config/framework.config.php:1209, cs-framework-override/config/framework.config.php:1374
+msgid "Full width slider"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1075, cs-framework-override/config/framework.config.php:1381
+msgid "Slider Posts Limit:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1092, cs-framework-override/config/framework.config.php:1233, cs-framework-override/config/framework.config.php:1398
+msgid "Select slider tag"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1098
+msgid "Per Category Template Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1242
+msgid "Category Layout Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1251, cs-framework-override/config/framework.config.php:1256
+msgid "Blog Layout Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1261
+msgid "Blog Header (for header 2 & 3)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1274
+msgid "Blog Template"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1287
+msgid "Blog Template Sidebar 1"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1294
+msgid "Blog Template Sidebar 2"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1353
+msgid "Numeric Pagination"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1354
+msgid "Ajax Load More"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1360
+msgid "Blog Slider Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1365
+msgid "Blog Slider"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1371
+msgid "Slider Style:"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1403
+msgid "Blog Featured Post Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1485, cs-framework-override/config/framework.config.php:1490
+msgid "Archive Layout Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1495
+msgid "Archive Header (for header 2 & 3)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1501
+msgid "Archive Background"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1589, cs-framework-override/config/framework.config.php:1594
+msgid "Shop Layout Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1630, cs-framework-override/config/framework.config.php:1635
+msgid "Single page Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1640
+msgid "Single Page Header (for header 2 & 3)"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1646
+msgid "Single Page Background"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1647
+msgid "Add Image"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1685, cs-framework-override/config/metabox.config.php:311
+msgid "Style 3"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1686, cs-framework-override/config/metabox.config.php:312
+msgid "Style 4"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1693
+msgid "Display Category List on Top"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1703
+msgid "Display Category tag share box"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1713
+msgid "Display Category List on Bottom"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1723
+msgid "Display Tag List  on Bottom"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1733
+msgid "Author Bio"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1743
+msgid "Display Administrator Bio Only"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1754, framework/includes/related_posts.php:45
+msgid "Related Post"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:36
+msgid "Header & Slider Settings"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:307
+msgid "Option Panel Style"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:338
+msgid "Video Link"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:339
+msgid "You can add Youtube, Vimeo or Dailymotion video link here."
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:25
+msgid "Home"
+msgstr ""
+
+#: framework/includes/breadcrumbs.php:238
+msgid "Page"
+msgstr ""
+
+#: framework/includes/cat_posts_slider.php:47, framework/includes/extras.php:227, framework/includes/featured_posts_top.php:63, framework/includes/featured_posts_v1.php:78, framework/includes/featured_posts_v2.php:79, framework/includes/featured_posts_v3.php:66, framework/includes/featured_posts.php:78, framework/includes/posts_slider.php:63, framework/includes/template-functions.php:264, framework/includes/template-functions.php:328, framework/shortcode/post_col1.php:105, framework/shortcode/post_col2_tab.php:146, framework/shortcode/post_col2.php:96, framework/shortcode/post_default.php:104, framework/shortcode/post_left_thumb.php:87, framework/shortcode/post_single_col.php:91, framework/shortcode/posts_row.php:59, template-parts/archives/content.php:24, template-parts/category/content.php:24, template-parts/content-search.php:26
+msgid "Posted by"
+msgstr ""
+
+#: framework/includes/comments.php:21
+msgid "Pingback:"
+msgstr ""
+
+#: framework/includes/comments.php:21
+msgid "(Edit)"
+msgstr ""
+
+#: framework/includes/comments.php:40
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/includes/comments.php:47
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/includes/comments.php:51
+msgid "Edit"
+msgstr ""
+
+#: framework/includes/comments.php:54
+msgid "Reply"
+msgstr ""
+
+#: framework/includes/comments.php:75
+msgid "Your Name"
+msgstr ""
+
+#: framework/includes/comments.php:76
+msgid "Your Email"
+msgstr ""
+
+#: framework/includes/comments.php:77
+msgid "Your Website"
+msgstr ""
+
+#: framework/includes/comments.php:82
+msgid "Your Messages"
+msgstr ""
+
+#: framework/includes/extras.php:103, framework/includes/extras.php:112, searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: framework/includes/extras.php:103, framework/includes/extras.php:112, searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: framework/includes/featured_posts_thumbslider.php:56, framework/includes/posts_slider_v2.php:56, framework/shortcode/posts_slider_shortcode.php:81, framework/shortcode/posts_slider_shortcode.php:132
+msgid "Posted by "
+msgstr ""
+
+#: framework/includes/posts_slider.php:69, framework/includes/template-functions.php:282, framework/includes/template-functions.php:346, framework/shortcode/post_col1.php:122, framework/shortcode/post_col2_tab.php:161, framework/shortcode/post_col2.php:110, framework/shortcode/post_default.php:120, framework/shortcode/post_left_thumb.php:100, framework/shortcode/post_single_col.php:105, framework/shortcode/posts_row.php:74, framework/shortcode/posts_slider_shortcode.php:136, template-parts/archives/content.php:34, template-parts/category/content.php:34
+msgid "Read More"
+msgstr ""
+
+#: framework/includes/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: framework/includes/template-tags.php:34
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: framework/includes/template-tags.php:51, framework/includes/template-tags.php:57
+msgid ", "
+msgstr ""
+
+#: framework/includes/template-tags.php:53
+msgid "Posted in %1$s"
+msgstr ""
+
+#: framework/includes/template-tags.php:59
+msgid "Tagged %1$s"
+msgstr ""
+
+#: framework/includes/template-tags.php:65, template-parts/content-single3.php:75
+msgid "Leave a comment"
+msgstr ""
+
+#: framework/includes/template-tags.php:65, template-parts/content-single3.php:76
+msgid "1 Comment"
+msgstr ""
+
+#: framework/includes/template-tags.php:65, template-parts/content-single3.php:77
+msgid "% Comments"
+msgstr ""
+
+#: framework/includes/template-tags.php:72, template-parts/content-page.php:32
+msgid "Edit %s"
+msgstr ""
+
+#: framework/mega-menus.php:487
+msgid "Enable Mega Menu ?"
+msgstr ""
+
+#: framework/mega-menus.php:489
+msgid "Disable"
+msgstr ""
+
+#: framework/mega-menus.php:491
+msgid "Sub Categories + Recent Posts"
+msgstr ""
+
+#: framework/mega-menus.php:492
+msgid "Sub Categories + Recent Posts + List"
+msgstr ""
+
+#: framework/mega-menus.php:493
+msgid "Recent post"
+msgstr ""
+
+#: framework/mega-menus.php:495
+msgid "Mega Links"
+msgstr ""
+
+#: framework/mega-menus.php:502
+msgid "Mega Links - Columns"
+msgstr ""
+
+#: framework/mega-menus.php:618
+msgid "%s (Invalid)"
+msgstr ""
+
+#: framework/mega-menus.php:622
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/mega-menus.php:635
+msgid "sub item"
+msgstr ""
+
+#: framework/mega-menus.php:650
+msgid "Move up"
+msgstr ""
+
+#: framework/mega-menus.php:663
+msgid "Move down"
+msgstr ""
+
+#: framework/mega-menus.php:665, framework/mega-menus.php:667
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/mega-menus.php:676
+msgid "URL"
+msgstr ""
+
+#: framework/mega-menus.php:683
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/mega-menus.php:689
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/mega-menus.php:696
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/mega-menus.php:701
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/mega-menus.php:707
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/mega-menus.php:713
+msgid "Description"
+msgstr ""
+
+#: framework/mega-menus.php:715
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: framework/mega-menus.php:730
+msgid "Move"
+msgstr ""
+
+#: framework/mega-menus.php:731
+msgid "Up one"
+msgstr ""
+
+#: framework/mega-menus.php:732
+msgid "Down one"
+msgstr ""
+
+#: framework/mega-menus.php:735
+msgid "To the top"
+msgstr ""
+
+#: framework/mega-menus.php:742
+msgid "Original: %s"
+msgstr ""
+
+#: framework/mega-menus.php:755
+msgid "Remove"
+msgstr ""
+
+#: framework/mega-menus.php:755
+msgid "Cancel"
+msgstr ""
+
+#: framework/menus.php:11
+msgid "Primary Menu"
+msgstr ""
+
+#: framework/menus.php:12
+msgid "Top Bar Menu (Default)"
+msgstr ""
+
+#: framework/menus.php:13
+msgid "vp guest menu items"
+msgstr ""
+
+#: framework/menus.php:14
+msgid "vp subscriber menu items"
+msgstr ""
+
+#: framework/menus.php:15
+msgid "Footer Menu"
+msgstr ""
+
+#: framework/menus.php:16
+msgid "Mobile Menu"
+msgstr ""
+
+#: framework/menus.php:17
+msgid "Top Mini (Left)"
+msgstr ""
+
+#: framework/menus.php:18
+msgid "Top Mini (Right)"
+msgstr ""
+
+#: framework/shortcode/hot_post_vc.php:24
+msgid "Hot Post"
+msgstr ""
+
+#: framework/shortcode/hot_post_vc.php:26, framework/shortcode/latest_videos_vc.php:33, framework/shortcode/photo_gallery_vc.php:37, framework/shortcode/popular_post_vc.php:26, framework/shortcode/post_carousel_vc.php:32, framework/shortcode/post_col1_vc.php:36, framework/shortcode/post_col2_vc.php:37, framework/shortcode/post_default_vc.php:34, framework/shortcode/post_left_thumb_vc.php:35, framework/shortcode/post_single_col_vc.php:33, framework/shortcode/posts_slider_shortcode_vc.php:34, framework/shortcode/trending_post_vc.php:26
+msgid "TopNews"
+msgstr ""
+
+#: framework/shortcode/hot_post_vc.php:31, framework/shortcode/latest_videos_vc.php:38, framework/shortcode/popular_post_vc.php:31, framework/shortcode/post_carousel_vc.php:37, framework/shortcode/post_col1_vc.php:41, framework/shortcode/post_col2_tab_vc.php:37, framework/shortcode/post_col2_vc.php:42, framework/shortcode/post_default_vc.php:39, framework/shortcode/post_left_thumb_ajax_vc.php:33, framework/shortcode/post_left_thumb_vc.php:40, framework/shortcode/post_single_col_vc.php:38, framework/shortcode/posts_slider_shortcode_vc.php:39, framework/shortcode/recent_post_ajax_vc.php:33, framework/shortcode/trending_post_vc.php:31
+msgid "Title for this block:"
+msgstr ""
+
+#: framework/shortcode/hot_post_vc.php:33, framework/shortcode/latest_videos_vc.php:40, framework/shortcode/popular_post_vc.php:33, framework/shortcode/post_carousel_vc.php:39, framework/shortcode/post_col1_vc.php:43, framework/shortcode/post_col2_tab_vc.php:39, framework/shortcode/post_col2_vc.php:44, framework/shortcode/post_default_vc.php:41, framework/shortcode/post_left_thumb_ajax_vc.php:35, framework/shortcode/post_left_thumb_vc.php:42, framework/shortcode/post_single_col_vc.php:40, framework/shortcode/posts_slider_shortcode_vc.php:41, framework/shortcode/recent_post_ajax_vc.php:35, framework/shortcode/trending_post_vc.php:33
+msgid "Enter text which will be used as this block title. Leave blank if no title is needed."
+msgstr ""
+
+#: framework/shortcode/hot_post_vc.php:37
+msgid "Weak Ago"
+msgstr ""
+
+#: framework/shortcode/hot_post_vc.php:39
+msgid "Hot post limitation by weak Eg: 8, Default value is 8"
+msgstr ""
+
+#: framework/shortcode/hot_post_vc.php:44, framework/shortcode/latest_videos_vc.php:90, framework/shortcode/popular_post_vc.php:44, framework/shortcode/post_col2_tab_vc.php:90, framework/shortcode/post_default_vc.php:109, framework/shortcode/post_left_thumb_ajax_vc.php:46, framework/shortcode/post_left_thumb_vc.php:98, framework/shortcode/recent_post_ajax_vc.php:58, framework/shortcode/trending_post_vc.php:44
+msgid "Limit (numeric value only)"
+msgstr ""
+
+#: framework/shortcode/hot_post_vc.php:46, framework/shortcode/popular_post_vc.php:46, framework/shortcode/trending_post_vc.php:46
+msgid "Limit of total post Eg: 10, Default value is 10"
+msgstr ""
+
+#: framework/shortcode/hot_post_vc.php:51, framework/shortcode/popular_post_vc.php:51, framework/shortcode/post_carousel_vc.php:102, framework/shortcode/post_col1_vc.php:118, framework/shortcode/post_col2_vc.php:130, framework/shortcode/post_default_vc.php:128, framework/shortcode/post_left_thumb_ajax_vc.php:63, framework/shortcode/post_left_thumb_vc.php:111, framework/shortcode/post_single_col_vc.php:116, framework/shortcode/posts_slider_shortcode_vc.php:113, framework/shortcode/recent_post_ajax_vc.php:75, framework/shortcode/trending_post_vc.php:51
+msgid "Extra class name:"
+msgstr ""
+
+#: framework/shortcode/hot_post_vc.php:53, framework/shortcode/latest_videos_vc.php:100, framework/shortcode/photo_gallery_vc.php:96, framework/shortcode/popular_post_vc.php:53, framework/shortcode/post_carousel_vc.php:104, framework/shortcode/post_col1_vc.php:120, framework/shortcode/post_col2_tab_vc.php:106, framework/shortcode/post_col2_vc.php:132, framework/shortcode/post_default_vc.php:130, framework/shortcode/post_left_thumb_ajax_vc.php:65, framework/shortcode/post_left_thumb_vc.php:113, framework/shortcode/post_single_col_vc.php:118, framework/shortcode/posts_slider_shortcode_vc.php:115, framework/shortcode/recent_post_ajax_vc.php:77, framework/shortcode/trending_post_vc.php:53
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: framework/shortcode/hot_post.php:67, framework/shortcode/latest_videos.php:117, framework/shortcode/photo_gallery.php:86, framework/shortcode/popular_post.php:67, framework/shortcode/post_carousel.php:106, framework/shortcode/post_col1.php:130, framework/shortcode/post_col2_tab.php:169, framework/shortcode/post_col2.php:118, framework/shortcode/post_default.php:133, framework/shortcode/post_left_thumb_ajax.php:81, framework/shortcode/post_left_thumb.php:105, framework/shortcode/post_single_col.php:114, framework/shortcode/posts_row.php:82, framework/shortcode/posts_slider_shortcode.php:146, framework/shortcode/recent_post_ajax.php:98, framework/shortcode/trending_post.php:67, framework/widgets/hot-posts/class-widget-hot-posts.php:92, framework/widgets/most-recent-posts/class-widget-most-recent-posts.php:87, framework/widgets/popular-posts/class-widget-popular-posts.php:92, framework/widgets/recent-posts/class-widget-recent-posts.php:178, framework/widgets/timeline/class-widget-timeline.php:55, framework/widgets/trending-posts/class-widget-trending-posts.php:92
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:31
+msgid "Latest Video Tab"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:44, framework/shortcode/photo_gallery_vc.php:49, framework/shortcode/post_carousel_vc.php:43, framework/shortcode/post_col1_vc.php:47, framework/shortcode/post_col2_vc.php:48, framework/shortcode/post_default_vc.php:57, framework/shortcode/post_left_thumb_ajax_vc.php:39, framework/shortcode/post_left_thumb_vc.php:46, framework/shortcode/post_single_col_vc.php:44, framework/shortcode/posts_slider_shortcode_vc.php:45, framework/shortcode/recent_post_ajax_vc.php:51
+msgid "Select category:"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:47, framework/shortcode/photo_gallery_vc.php:52, framework/shortcode/post_carousel_vc.php:46, framework/shortcode/post_col1_vc.php:50, framework/shortcode/post_col2_vc.php:51, framework/shortcode/post_default_vc.php:60, framework/shortcode/post_left_thumb_ajax_vc.php:42, framework/shortcode/post_left_thumb_vc.php:49, framework/shortcode/post_single_col_vc.php:47, framework/shortcode/posts_slider_shortcode_vc.php:48, framework/shortcode/recent_post_ajax_vc.php:54
+msgid "Select Category to display"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:51, framework/shortcode/photo_gallery_vc.php:56, framework/shortcode/post_carousel_vc.php:50, framework/shortcode/post_col1_vc.php:54, framework/shortcode/post_col2_tab_vc.php:43, framework/shortcode/post_col2_vc.php:55, framework/shortcode/post_default_vc.php:64, framework/shortcode/post_left_thumb_vc.php:53, framework/shortcode/post_single_col_vc.php:51, framework/shortcode/posts_slider_shortcode_vc.php:52
+msgid "Multiple categories filter:"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:53, framework/shortcode/photo_gallery_vc.php:58, framework/shortcode/post_carousel_vc.php:52, framework/shortcode/post_col1_vc.php:56, framework/shortcode/post_col2_vc.php:57, framework/shortcode/post_default_vc.php:66, framework/shortcode/post_left_thumb_vc.php:55, framework/shortcode/post_single_col_vc.php:53, framework/shortcode/posts_slider_shortcode_vc.php:54
+msgid "Filter multiple categories by category slug separated by commas Eg: fashion-news,tech-land,sport-news. Leave empty if you want to select category from dropdown list above"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:57, framework/shortcode/photo_gallery_vc.php:62, framework/shortcode/post_carousel_vc.php:56, framework/shortcode/post_col1_vc.php:60, framework/shortcode/post_col2_vc.php:61, framework/shortcode/post_default_vc.php:70, framework/shortcode/post_left_thumb_vc.php:59, framework/shortcode/post_single_col_vc.php:57, framework/shortcode/posts_slider_shortcode_vc.php:58
+msgid "Filter by tag slug:"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:59, framework/shortcode/photo_gallery_vc.php:64, framework/shortcode/post_carousel_vc.php:58, framework/shortcode/post_col1_vc.php:62, framework/shortcode/post_col2_vc.php:63, framework/shortcode/post_default_vc.php:72, framework/shortcode/post_left_thumb_vc.php:61, framework/shortcode/post_single_col_vc.php:59, framework/shortcode/posts_slider_shortcode_vc.php:60
+msgid "To filter multiple tag slugs, enter here the tag slugs separated by commas (ex: tag1,tag2,tag3). Leave empty if you want to display post from Category or Category slug"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:64, framework/shortcode/photo_gallery_vc.php:68
+msgid "Order By"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:66, framework/shortcode/photo_gallery_vc.php:70, framework/shortcode/post_carousel_vc.php:65, framework/shortcode/post_col1_vc.php:69, framework/shortcode/post_col2_tab_vc.php:52, framework/shortcode/post_col2_vc.php:70, framework/shortcode/post_default_vc.php:79, framework/shortcode/post_left_thumb_vc.php:68, framework/shortcode/post_single_col_vc.php:66, framework/shortcode/posts_slider_shortcode_vc.php:67
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:68, framework/shortcode/photo_gallery_vc.php:72, framework/shortcode/post_carousel_vc.php:67, framework/shortcode/post_col1_vc.php:71, framework/shortcode/post_col2_tab_vc.php:54, framework/shortcode/post_col2_vc.php:72, framework/shortcode/post_default_vc.php:81, framework/shortcode/post_left_thumb_vc.php:70, framework/shortcode/post_single_col_vc.php:68, framework/shortcode/posts_slider_shortcode_vc.php:69
+msgid "Select order by"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:70, framework/shortcode/photo_gallery_vc.php:74, framework/shortcode/post_carousel_vc.php:69, framework/shortcode/post_col1_vc.php:73, framework/shortcode/post_col2_tab_vc.php:56, framework/shortcode/post_col2_vc.php:74, framework/shortcode/post_default_vc.php:83, framework/shortcode/post_left_thumb_vc.php:72, framework/shortcode/post_single_col_vc.php:70, framework/shortcode/posts_slider_shortcode_vc.php:71, framework/widgets/social-profiles/class-widget-social-profiles.php:63, woocommerce/single-product-reviews.php:73
+msgid "Name"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:71, framework/shortcode/photo_gallery_vc.php:75, framework/shortcode/post_carousel_vc.php:70, framework/shortcode/post_col1_vc.php:74, framework/shortcode/post_col2_tab_vc.php:57, framework/shortcode/post_col2_vc.php:75, framework/shortcode/post_default_vc.php:84, framework/shortcode/post_left_thumb_vc.php:73, framework/shortcode/post_single_col_vc.php:71, framework/shortcode/posts_slider_shortcode_vc.php:72
+msgid "Modified"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:72, framework/shortcode/photo_gallery_vc.php:76, framework/shortcode/post_carousel_vc.php:71, framework/shortcode/post_col1_vc.php:75, framework/shortcode/post_col2_tab_vc.php:58, framework/shortcode/post_col2_vc.php:76, framework/shortcode/post_default_vc.php:85, framework/shortcode/post_left_thumb_vc.php:74, framework/shortcode/post_single_col_vc.php:72, framework/shortcode/posts_slider_shortcode_vc.php:73
+msgid "Author"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:73, framework/shortcode/photo_gallery_vc.php:77, framework/shortcode/post_carousel_vc.php:72, framework/shortcode/post_col1_vc.php:76, framework/shortcode/post_col2_tab_vc.php:59, framework/shortcode/post_col2_vc.php:77, framework/shortcode/post_default_vc.php:86, framework/shortcode/post_left_thumb_vc.php:75, framework/shortcode/post_single_col_vc.php:73, framework/shortcode/posts_slider_shortcode_vc.php:74
+msgid "Random"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:74, framework/shortcode/photo_gallery_vc.php:78, framework/shortcode/post_carousel_vc.php:73, framework/shortcode/post_col1_vc.php:77, framework/shortcode/post_col2_tab_vc.php:60, framework/shortcode/post_col2_vc.php:78, framework/shortcode/post_default_vc.php:87, framework/shortcode/post_left_thumb_vc.php:76, framework/shortcode/post_single_col_vc.php:74, framework/shortcode/posts_slider_shortcode_vc.php:75
+msgid "Comment Count"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:79, framework/shortcode/post_carousel_vc.php:78, framework/shortcode/post_col1_vc.php:82, framework/shortcode/post_col2_tab_vc.php:65, framework/shortcode/post_default_vc.php:92, framework/shortcode/post_left_thumb_vc.php:81, framework/shortcode/post_single_col_vc.php:79, framework/shortcode/posts_slider_shortcode_vc.php:80
+msgid "Order:"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:81, framework/shortcode/post_carousel_vc.php:80, framework/shortcode/post_col1_vc.php:84, framework/shortcode/post_col2_tab_vc.php:67, framework/shortcode/post_col2_vc.php:85, framework/shortcode/post_col2_vc.php:121, framework/shortcode/post_default_vc.php:94, framework/shortcode/post_left_thumb_vc.php:83, framework/shortcode/post_single_col_vc.php:81, framework/shortcode/posts_slider_shortcode_vc.php:82
+msgid "Designates the ascending or descending order."
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:83, framework/shortcode/photo_gallery_vc.php:87, framework/shortcode/post_carousel_vc.php:82, framework/shortcode/post_col1_vc.php:86, framework/shortcode/post_col2_tab_vc.php:69, framework/shortcode/post_col2_vc.php:87, framework/shortcode/post_default_vc.php:96, framework/shortcode/post_left_thumb_vc.php:85, framework/shortcode/post_single_col_vc.php:83, framework/shortcode/posts_slider_shortcode_vc.php:84
+msgid "Select order"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:84, framework/shortcode/photo_gallery_vc.php:88, framework/shortcode/post_carousel_vc.php:83, framework/shortcode/post_col1_vc.php:87, framework/shortcode/post_col2_tab_vc.php:70, framework/shortcode/post_col2_vc.php:88, framework/shortcode/post_default_vc.php:97, framework/shortcode/post_left_thumb_vc.php:86, framework/shortcode/post_single_col_vc.php:84, framework/shortcode/posts_slider_shortcode_vc.php:85
+msgid "DESC"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:85, framework/shortcode/photo_gallery_vc.php:89, framework/shortcode/post_carousel_vc.php:84, framework/shortcode/post_col1_vc.php:88, framework/shortcode/post_col2_tab_vc.php:71, framework/shortcode/post_col2_vc.php:89, framework/shortcode/post_default_vc.php:98, framework/shortcode/post_left_thumb_vc.php:87, framework/shortcode/post_single_col_vc.php:85, framework/shortcode/posts_slider_shortcode_vc.php:86
+msgid "ASC"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:92, framework/shortcode/post_col1_vc.php:107, framework/shortcode/post_col2_tab_vc.php:92, framework/shortcode/post_col2_vc.php:108, framework/shortcode/post_default_vc.php:111, framework/shortcode/post_left_thumb_ajax_vc.php:48, framework/shortcode/post_left_thumb_vc.php:100, framework/shortcode/post_single_col_vc.php:105, framework/shortcode/posts_slider_shortcode_vc.php:107, framework/shortcode/recent_post_ajax_vc.php:60
+msgid "Limit of total post Eg: 5, Default value is 5"
+msgstr ""
+
+#: framework/shortcode/latest_videos_vc.php:98, framework/shortcode/photo_gallery_vc.php:94, framework/shortcode/post_col2_tab_vc.php:104
+msgid "Extra class name"
+msgstr ""
+
+#: framework/shortcode/latest_videos.php:79
+msgid "No Video"
+msgstr ""
+
+#: framework/shortcode/latest_videos.php:103
+msgid "by"
+msgstr ""
+
+#: framework/shortcode/photo_gallery_vc.php:35
+msgid "PHOTO GALLERY"
+msgstr ""
+
+#: framework/shortcode/photo_gallery_vc.php:42
+msgid "Widget title"
+msgstr ""
+
+#: framework/shortcode/photo_gallery_vc.php:44
+msgid "Enter text which will be used as widget title. Leave blank if no title is needed."
+msgstr ""
+
+#: framework/shortcode/photo_gallery_vc.php:83, framework/shortcode/post_col2_vc.php:83
+msgid "Order"
+msgstr ""
+
+#: framework/shortcode/photo_gallery_vc.php:85
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: framework/shortcode/popular_post_vc.php:24
+msgid "Popular Post"
+msgstr ""
+
+#: framework/shortcode/popular_post_vc.php:37
+msgid "Month Ago"
+msgstr ""
+
+#: framework/shortcode/popular_post_vc.php:39
+msgid "Popular post limitation by month Eg: 12, Default value is 12"
+msgstr ""
+
+#: framework/shortcode/post_carousel_vc.php:30
+msgid "Post carousel"
+msgstr ""
+
+#: framework/shortcode/post_carousel_vc.php:63, framework/shortcode/post_col1_vc.php:67, framework/shortcode/post_col2_vc.php:68, framework/shortcode/post_default_vc.php:77, framework/shortcode/post_left_thumb_vc.php:66
+msgid "Order By:"
+msgstr ""
+
+#: framework/shortcode/post_carousel_vc.php:90, framework/shortcode/post_col1_vc.php:100, framework/shortcode/post_col2_tab_vc.php:84, framework/shortcode/post_col2_vc.php:101, framework/shortcode/post_default_vc.php:104, framework/shortcode/post_left_thumb_vc.php:93, framework/shortcode/post_single_col_vc.php:97, framework/shortcode/posts_slider_shortcode_vc.php:99
+msgid "Display meta description"
+msgstr ""
+
+#: framework/shortcode/post_carousel_vc.php:91, framework/shortcode/post_col1_vc.php:101, framework/shortcode/post_col2_tab_vc.php:86, framework/shortcode/post_col2_vc.php:102, framework/shortcode/post_default_vc.php:105, framework/shortcode/post_default_vc.php:118, framework/shortcode/post_left_thumb_vc.php:94, framework/shortcode/post_single_col_vc.php:99, framework/shortcode/posts_slider_shortcode_vc.php:101
+msgid "Don't forgot to check 'Yes' if you want to display meta description of post on list"
+msgstr ""
+
+#: framework/shortcode/post_carousel_vc.php:95
+msgid "Limit:"
+msgstr ""
+
+#: framework/shortcode/post_carousel_vc.php:97
+msgid "Limit"
+msgstr ""
+
+#: framework/shortcode/post_col1_vc.php:34
+msgid "Post (1 column / 2 list column)"
+msgstr ""
+
+#: framework/shortcode/post_col1_vc.php:94, framework/shortcode/post_col2_tab_vc.php:77, framework/shortcode/post_col2_vc.php:95, framework/shortcode/post_single_col_vc.php:91, framework/shortcode/posts_slider_shortcode_vc.php:92
+msgid "Display Thumbs"
+msgstr ""
+
+#: framework/shortcode/post_col1_vc.php:95, framework/shortcode/post_col2_tab_vc.php:79, framework/shortcode/post_col2_vc.php:96, framework/shortcode/post_single_col_vc.php:92, framework/shortcode/posts_slider_shortcode_vc.php:94
+msgid "Don't forgot to check 'Yes' if you want to display thumb image on list"
+msgstr ""
+
+#: framework/shortcode/post_col1_vc.php:105, framework/shortcode/post_col2_vc.php:106, framework/shortcode/post_single_col_vc.php:103, framework/shortcode/posts_slider_shortcode_vc.php:105
+msgid "Limit (numeric value only):"
+msgstr ""
+
+#: framework/shortcode/post_col1_vc.php:112, framework/shortcode/post_col2_tab_vc.php:97, framework/shortcode/post_col2_vc.php:113, framework/shortcode/post_default_vc.php:122, framework/shortcode/post_left_thumb_vc.php:105, framework/shortcode/post_single_col_vc.php:110
+msgid "Excerpt word limit (numeric value only):"
+msgstr ""
+
+#: framework/shortcode/post_col1_vc.php:114, framework/shortcode/post_col2_tab_vc.php:99, framework/shortcode/post_col2_vc.php:115, framework/shortcode/post_single_col_vc.php:112
+msgid "Word limit of first post excerpt Eg: 20, Default value is 20"
+msgstr ""
+
+#: framework/shortcode/post_col2_tab_vc.php:30
+msgid "Post (column 2 with tab) Ajax"
+msgstr ""
+
+#: framework/shortcode/post_col2_tab_vc.php:32, framework/shortcode/post_left_thumb_ajax_vc.php:28, framework/shortcode/recent_post_ajax_vc.php:28
+msgid "TopNews Ajax"
+msgstr ""
+
+#: framework/shortcode/post_col2_tab_vc.php:45
+msgid "Write down the category slug with comma separator which you want to display Eg: fashion-news,tech-land,sport-news. Leave empty if you want to display all category"
+msgstr ""
+
+#: framework/shortcode/post_col2_tab_vc.php:50, framework/shortcode/post_single_col_vc.php:64, framework/shortcode/posts_slider_shortcode_vc.php:65
+msgid "Order by:"
+msgstr ""
+
+#: framework/shortcode/post_col2_vc.php:35
+msgid "Post (2 column)"
+msgstr ""
+
+#: framework/shortcode/post_col2_vc.php:119
+msgid "Small post list style:"
+msgstr ""
+
+#: framework/shortcode/post_col2_vc.php:123
+msgid "Select small post list style"
+msgstr ""
+
+#: framework/shortcode/post_col2_vc.php:124
+msgid "Style 1 (list)"
+msgstr ""
+
+#: framework/shortcode/post_col2_vc.php:125
+msgid "Style 2 (boxed)"
+msgstr ""
+
+#: framework/shortcode/post_default_vc.php:32
+msgid "Post (default)"
+msgstr ""
+
+#: framework/shortcode/post_default_vc.php:45, framework/shortcode/recent_post_ajax_vc.php:39
+msgid "Column:"
+msgstr ""
+
+#: framework/shortcode/post_default_vc.php:47, framework/shortcode/recent_post_ajax_vc.php:41
+msgid "Select post column number"
+msgstr ""
+
+#: framework/shortcode/post_default_vc.php:49, framework/shortcode/recent_post_ajax_vc.php:43
+msgid "Select Column"
+msgstr ""
+
+#: framework/shortcode/post_default_vc.php:50, framework/shortcode/recent_post_ajax_vc.php:44
+msgid "2 Column"
+msgstr ""
+
+#: framework/shortcode/post_default_vc.php:51, framework/shortcode/recent_post_ajax_vc.php:45
+msgid "3 Column"
+msgstr ""
+
+#: framework/shortcode/post_default_vc.php:52, framework/shortcode/recent_post_ajax_vc.php:46
+msgid "4 Column"
+msgstr ""
+
+#: framework/shortcode/post_default_vc.php:117
+msgid "Display post excerpt"
+msgstr ""
+
+#: framework/shortcode/post_default_vc.php:124, framework/shortcode/post_left_thumb_vc.php:107
+msgid "Word limit post excerpt Eg: 20, Default value is 20"
+msgstr ""
+
+#: framework/shortcode/post_left_thumb_ajax_vc.php:26
+msgid "Recent Post Left Thumb (Ajax)"
+msgstr ""
+
+#: framework/shortcode/post_left_thumb_ajax_vc.php:53, framework/shortcode/recent_post_ajax_vc.php:65
+msgid "Ajax post load button:"
+msgstr ""
+
+#: framework/shortcode/post_left_thumb_ajax.php:86, framework/shortcode/recent_post_ajax.php:103, index.php:192
+msgid "Load More"
+msgstr ""
+
+#: framework/shortcode/post_left_thumb_vc.php:33
+msgid "Post (left thumb)"
+msgstr ""
+
+#: framework/shortcode/post_single_col_vc.php:31
+msgid "Post (1 column / 1 list column)"
+msgstr ""
+
+#: framework/shortcode/posts_slider_shortcode_vc.php:32
+msgid "Slider"
+msgstr ""
+
+#: framework/shortcode/recent_post_ajax_vc.php:26
+msgid "Recent Post Top Thumb (Ajax)"
+msgstr ""
+
+#: framework/shortcode/trending_post_vc.php:24
+msgid "Trending Post"
+msgstr ""
+
+#: framework/shortcode/trending_post_vc.php:37
+msgid "Days Ago"
+msgstr ""
+
+#: framework/shortcode/trending_post_vc.php:39
+msgid "Trending post limitation by days Eg: 10, Default value is 10"
+msgstr ""
+
+#: framework/sidebars.php:12
+msgid "Sidebar 1 Primary"
+msgstr ""
+
+#: framework/sidebars.php:23
+msgid "Sidebar 2 Primary"
+msgstr ""
+
+#: framework/sidebars.php:34
+msgid "Footer"
+msgstr ""
+
+#: framework/static.php:112
+msgid "Sorry, No more post to load"
+msgstr ""
+
+#: framework/static.php:134
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:341
+msgid "/*translators:1:pluginnames.*/This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:347
+msgid "/*translators:1:pluginnames.*/This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:353
+msgid "/*translators:1:pluginnames.*/The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:359
+msgid "/*translators:1:pluginnames.*/There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:365
+msgid "/*translators:1:pluginnames.*/The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:371
+msgid "/*translators:1:pluginnames.*/The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:393, framework/tgm-plugin-activation/class-tgm-plugin-activation.php:912, framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2618, framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:394, framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:395, framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1019, framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:1206, framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2067
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2427
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2473
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2477
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2688
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2693
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2699
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3583
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3586
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3588
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3594, framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3594, framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3597
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/tgm-plugin-activation/class-tgm-plugin-activation.php:3605
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm-plugin-activation/tgm-plugin-setup.php:62
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: framework/tgm-plugin-activation/tgm-plugin-setup.php:73
+msgid "Codestar Framework for TopNews"
+msgstr ""
+
+#: framework/tgm-plugin-activation/tgm-plugin-setup.php:84
+msgid "Viralpress"
+msgstr ""
+
+#: framework/tgm-plugin-activation/tgm-plugin-setup.php:95
+msgid "Top News User Social Profile"
+msgstr ""
+
+#: framework/tgm-plugin-activation/tgm-plugin-setup.php:108
+msgid "WP User Avatar"
+msgstr ""
+
+#: framework/tgm-plugin-activation/tgm-plugin-setup.php:115
+msgid "Social Media Share Buttons | MashShare"
+msgstr ""
+
+#: framework/tgm-plugin-activation/tgm-plugin-setup.php:120
+msgid "WP Review"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:9
+msgid "TopNews :: About Us"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:37
+msgid "Follow Us"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:115, framework/widgets/hot-posts/class-widget-hot-posts.php:105, framework/widgets/most-recent-posts/class-widget-most-recent-posts.php:100, framework/widgets/popular-posts/class-widget-popular-posts.php:105, framework/widgets/recent-posts/class-widget-recent-posts.php:192, framework/widgets/sponsor/class-widget-sponsor.php:52, framework/widgets/timeline/class-widget-timeline.php:69, framework/widgets/trending-posts/class-widget-trending-posts.php:105
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:120
+msgid "Logo:"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:125
+msgid "Content:"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:130
+msgid "Facebook Url:"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:135
+msgid "Twitter Url:"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:140
+msgid "RSS Url:"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:145
+msgid "Pinterest Url:"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:150
+msgid "Dribble Url:"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:155
+msgid "Vimeo Url:"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:160
+msgid "Behance Url:"
+msgstr ""
+
+#: framework/widgets/about-us/class-widget-about-us.php:165
+msgid "Instagram Url:"
+msgstr ""
+
+#: framework/widgets/hot-posts/class-widget-hot-posts.php:8
+msgid "TopNews :: Hot Posts"
+msgstr ""
+
+#: framework/widgets/hot-posts/class-widget-hot-posts.php:110
+msgid "Weak Ago:"
+msgstr ""
+
+#: framework/widgets/hot-posts/class-widget-hot-posts.php:122, framework/widgets/most-recent-posts/class-widget-most-recent-posts.php:111, framework/widgets/popular-posts/class-widget-popular-posts.php:122, framework/widgets/recent-posts/class-widget-recent-posts.php:203, framework/widgets/trending-posts/class-widget-trending-posts.php:122
+msgid "Post Style"
+msgstr ""
+
+#: framework/widgets/hot-posts/class-widget-hot-posts.php:124, framework/widgets/most-recent-posts/class-widget-most-recent-posts.php:113, framework/widgets/popular-posts/class-widget-popular-posts.php:124, framework/widgets/recent-posts/class-widget-recent-posts.php:205, framework/widgets/trending-posts/class-widget-trending-posts.php:124
+msgid "Thumb on left"
+msgstr ""
+
+#: framework/widgets/hot-posts/class-widget-hot-posts.php:125, framework/widgets/most-recent-posts/class-widget-most-recent-posts.php:114, framework/widgets/popular-posts/class-widget-popular-posts.php:125, framework/widgets/recent-posts/class-widget-recent-posts.php:206, framework/widgets/trending-posts/class-widget-trending-posts.php:125
+msgid "Thumb on top"
+msgstr ""
+
+#: framework/widgets/most-recent-posts/class-widget-most-recent-posts.php:8
+msgid "TopNews :: Most Recent Posts"
+msgstr ""
+
+#: framework/widgets/popular-posts/class-widget-popular-posts.php:8
+msgid "TopNews :: Popular Posts"
+msgstr ""
+
+#: framework/widgets/popular-posts/class-widget-popular-posts.php:110
+msgid "Month Ago:"
+msgstr ""
+
+#: framework/widgets/recent-posts/class-widget-recent-posts.php:9
+msgid "TopNews :: Recent Posts"
+msgstr ""
+
+#: framework/widgets/recent-posts/class-widget-recent-posts.php:207
+msgid "Stylish post"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:9
+msgid "TopNews :: Social Counters"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:56
+msgid "Social Counters"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:58
+msgid "Add New Counter"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:68
+msgid "Info"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:73
+msgid "Counter"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:78
+msgid "Link"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:83
+msgid "Icon"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:88
+msgid "Facebook"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:89
+msgid "Fans"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:95
+msgid "Twitter"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:96, framework/widgets/social-profiles/class-widget-social-profiles.php:110
+msgid "Followers"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:102
+msgid "Linkedin"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:103
+msgid "Connection"
+msgstr ""
+
+#: framework/widgets/social-profiles/class-widget-social-profiles.php:109
+msgid "Dribbble"
+msgstr ""
+
+#: framework/widgets/sponsor/class-widget-sponsor.php:9
+msgid "TopNews :: Sponsor"
+msgstr ""
+
+#: framework/widgets/sponsor/class-widget-sponsor.php:57
+msgid "Upload Image"
+msgstr ""
+
+#: framework/widgets/sponsor/class-widget-sponsor.php:68
+msgid "Sponsor Link:"
+msgstr ""
+
+#: framework/widgets/sponsor/class-widget-sponsor.php:73
+msgid "Checkbox Field"
+msgstr ""
+
+#: framework/widgets/sponsor/class-widget-sponsor.php:74
+msgid "Open links in a new window"
+msgstr ""
+
+#: framework/widgets/sponsor/class-widget-sponsor.php:79
+msgid "Ad Codes"
+msgstr ""
+
+#: framework/widgets/timeline/class-widget-timeline.php:9
+msgid "TopNews :: Timeline"
+msgstr ""
+
+#: framework/widgets/trending-posts/class-widget-trending-posts.php:8
+msgid "TopNews :: Trending Posts"
+msgstr ""
+
+#: framework/widgets/trending-posts/class-widget-trending-posts.php:110
+msgid "Day Ago:"
+msgstr ""
+
+#: framework/widgets/user-panel/class-widget-user-panel.php:9
+msgid "TopNews :: User Panel"
+msgstr ""
+
+#: framework/widgets/user-panel/class-widget-user-panel.php:32
+msgid "Welcome %1$s."
+msgstr ""
+
+#: framework/widgets/user-panel/class-widget-user-panel.php:52
+msgid "Remember Me"
+msgstr ""
+
+#: framework/widgets/user-panel/class-widget-user-panel.php:57
+msgid "Sign In"
+msgstr ""
+
+#: framework/widgets/user-panel/class-widget-user-panel.php:78
+msgid "Guest Note:"
+msgstr ""
+
+#: framework/widgets/user-panel/class-widget-user-panel.php:79
+msgid "Hi there! Login to get started!"
+msgstr ""
+
+#: framework/widgets/user-panel/class-widget-user-panel.php:84
+msgid "User Note:"
+msgstr ""
+
+#: framework/widgets/user-panel/class-widget-user-panel.php:85
+msgid "Here quick links"
+msgstr ""
+
+#: index.php:193
+msgid "Loading ...."
+msgstr ""
+
+#: search.php:28
+msgid "Search Results for : %s"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22, template-parts/content-single.php:70, template-parts/content-single1.php:71, template-parts/content-single2.php:54, template-parts/content-single3.php:89, template-parts/content-single4.php:59, template-parts/content.php:34
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:85, template-parts/content-single1.php:85, template-parts/content-single2.php:71, template-parts/content-single3.php:105, template-parts/content-single4.php:74
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/content-single.php:94, template-parts/content-single1.php:94, template-parts/content-single2.php:80, template-parts/content-single3.php:114, template-parts/content-single4.php:83
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/content-single3.php:67
+msgid "Posted By"
+msgstr ""
+
+#: template-parts/content.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/extras/news-ticker.php:69
+msgid "Breaking News"
+msgstr ""
+
+#: template-parts/extras/news-ticker.php:82
+msgid "No Post Found"
+msgstr ""
+
+#: template-parts/headers/top-1.php:97, template-parts/headers/top-2.php:49, template-parts/headers/top-3.php:80
+msgid "Hello, "
+msgstr ""
+
+#: template-parts/headers/top-2.php:31
+msgid "Latest"
+msgstr ""
+
+#: template-parts/headers/top-2.php:34
+msgid "Popular"
+msgstr ""
+
+#: template-parts/headers/top-2.php:37
+msgid "Hot "
+msgstr ""
+
+#: template-parts/headers/top-2.php:40
+msgid "Trending"
+msgstr ""
+
+#: template-parts/single-footer.php:24
+msgid "Tags :"
+msgstr ""
+
+#: template-parts/single-footer.php:41
+msgid "Category :"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:27
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:35
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35, woocommerce/cart/cart.php:78
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36, woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37, woocommerce/cart/cart.php:102
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38, woocommerce/cart/cart.php:119
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:59
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137, woocommerce/checkout/form-coupon.php:36
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137, woocommerce/checkout/form-coupon.php:40
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/terms.php:17
+msgid "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; conditions</a>"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:33
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:39, woocommerce/checkout/thankyou.php:70
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:43
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:47
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:51
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:33
+msgid "%s review for %s%s%s"
+msgid_plural "%s reviews for %s%s%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
